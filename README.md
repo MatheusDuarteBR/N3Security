@@ -13,7 +13,7 @@ Planejamento e operação: Foi organizado e feito em base no pseudo-código que 
 ## Teste:
 Os testes no código foram feitos conforme eu ia programando ele, testando se as variáveis estavam printando oque eu precisava.
 
-##O que funciona e o que não funciona? 
+## O que funciona e o que não funciona? 
 R: A parte de Encrypt, está 100% fucional conseguindo criptografar dados que estão no source.txt sem maiores problemas. Já o Decrypt, ele consegue ler o arquivo entrada de dados (out.txt) ele também consegue ler o arquivos da private.txt (chave privada e também o módulo). Porém o retorno que está me dando é conforme a imagem a seguir:
 ![alt text](https://github.com/MatheusDuarteBR/N3Security/blob/main/img/print.png)
 
